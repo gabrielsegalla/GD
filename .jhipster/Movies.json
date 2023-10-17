@@ -1,0 +1,22 @@
+{
+  "changelogDate": "20231017144112",
+  "fields": [
+    {
+      "fieldName": "title",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "directedBy",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Movies",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
